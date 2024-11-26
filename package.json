@@ -1,0 +1,7 @@
+{
+    "type": "module",
+    "dependencies": {
+        "surrealdb": "^1.0.0",
+        "surreality": "^1.1.4"
+    }
+}
